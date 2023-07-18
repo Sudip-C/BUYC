@@ -1,0 +1,16 @@
+.nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: aquamarine;
+    padding: 15px;
+    font-size: 20px;
+}
+.nav h2{
+    font-size: 35px;
+}
+.page{
+    display: flex;
+    gap: 25px;
+    align-items: center;
+}
